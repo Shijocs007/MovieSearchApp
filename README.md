@@ -1,8 +1,8 @@
-##MVVM
-##Kotlin
-##Kodein
-##Coroutines
-##Retrofit
-##Room
-##Navigation 
+##. MVVM
+##. Kotlin
+##. Kodein
+##. Coroutines
+##. Retrofit
+##. Room
+##. Navigation 
 
